@@ -15,4 +15,8 @@ public class T1_google_screenshot extends TestParent {
         ReusableMethods_Loggers.submitMethod(driver, "//*[@name= 'btnKlp']","Submit", logger);
         Thread.sleep(1000);
     }//end of test case 1
+
+    public void tc002git_Commit () {
+        //committing a new test case
+    }// end of tc 02
 }
